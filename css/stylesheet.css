@@ -1,0 +1,14 @@
+.main-content {
+
+    width: 90%;
+    margin: auto;
+    background-color:rgb(241,249,252);
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.page-title {
+    text-align: center;
+}
+
